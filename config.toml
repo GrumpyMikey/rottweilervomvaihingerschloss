@@ -3,3 +3,6 @@ baseURL = "https://grumpymikey.github.io/rottweilervomvaihingerschloss/"
 languageCode = "de-de"
 theme = "ananke"
 copyright = "Rottweiler vom Vaihinger Schloss"
+
+#Github pages
+publishDir = "docs"
