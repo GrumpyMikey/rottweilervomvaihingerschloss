@@ -1,7 +1,7 @@
 ---
 title: "ADRK"
 description: "ADRK"
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
     weight: 4

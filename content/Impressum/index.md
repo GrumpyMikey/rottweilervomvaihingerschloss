@@ -1,7 +1,7 @@
 ---
 title: "Impressum"
 description: "Impressum"
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
     weight: 6

@@ -1,7 +1,7 @@
 ---
 title: "Ultraschalluntersuchung"
 date: 2022-08-17T09:00:00+02:00
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 draft: false
 #tags: ["puppies"]
 #description: We'd love to hear from you

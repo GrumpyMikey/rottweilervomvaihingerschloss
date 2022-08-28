@@ -1,7 +1,7 @@
 ---
 title: "Welpen"
 description: "Welpen"
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
     weight: 2

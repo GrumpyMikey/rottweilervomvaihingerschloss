@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 omit_header_text: true
 description: Wir freuen uns Sie / Euch / Dich persönlich kennenzulernen
 type: page

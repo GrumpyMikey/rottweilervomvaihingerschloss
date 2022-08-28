@@ -1,7 +1,7 @@
 ---
 title: "Über uns"
 description: "Über uns"
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
     weight: 3

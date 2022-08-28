@@ -1,7 +1,7 @@
 ---
 title: "Unsere Hunde"
 description: "Unsere Hunde)"
-featured_image: '/images/winnie-castle.png'
+featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
     weight: 1
