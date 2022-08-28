@@ -1,6 +1,8 @@
 ---
-title: "Neuigkeiten"
-#featured_image: 'images/background.jpg'
-description: "TODO"
+title: "News"
+featured_image: '/images/winnie-castle.png'
+description: ""
+omit_header_text: true
+#type: page
+#menu: main
 ---
-TODO

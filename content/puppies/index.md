@@ -1,11 +1,11 @@
 ---
 title: "Welpen"
-description: "#TODO | Welpen"
+description: "Welpen"
 featured_image: '/images/winnie-castle.png'
 menu:
   main:
-    weight: 3
+    weight: 2
+omit_header_text: true
 ---
-{{< figure src="/images/winnie-castle.png" title="Verträumter Blick aufs Vaihinger Schloss" >}}
 
-Welpen
+Under construction! ;) 

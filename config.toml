@@ -34,9 +34,10 @@ publishDir = "docs"
   # gitlab = ""
   # linkedin = ""
   # choose a background color from any on this page: http://tachyons.io/docs/themes/skins/ and preface it with "bg-"
-  # background_color_class = "bg-black"
+  background_color_class = "bg-orange"
+  # #EA5B0C
   # featured_image = "/background.jpg"
-  # recent_posts_number = 4
+  recent_posts_number = 1
   # custom_css = ["css/puppeteer.css"]
   text_color = ""
   author = ""

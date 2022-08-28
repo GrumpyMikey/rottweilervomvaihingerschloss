@@ -1,21 +1,29 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Neuigkeiten on Rottweiler vom Vaihinger Schloss</title>
+    <title>News on Rottweiler vom Vaihinger Schloss</title>
     <link>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/</link>
-    <description>Recent content in Neuigkeiten on Rottweiler vom Vaihinger Schloss</description>
+    <description>Recent content in News on Rottweiler vom Vaihinger Schloss</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>de-de</language>
     <copyright>Rottweiler vom Vaihinger Schloss</copyright>
     <lastBuildDate>Wed, 17 Aug 2022 09:00:00 +0200</lastBuildDate><atom:link href="https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>Wir erwarten Welpen</title>
-      <link>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/first_puppies/</link>
+      <title>Ultraschalluntersuchung</title>
+      <link>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/2_sonography_examination/</link>
       <pubDate>Wed, 17 Aug 2022 09:00:00 +0200</pubDate>
       
-      <guid>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/first_puppies/</guid>
-      <description>Bild funktioniert
-1 Kurt &amp;amp; Winnie Anzeige Illustration from Victor Hugo et son temps (1881) Bild </description>
+      <guid>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/2_sonography_examination/</guid>
+      <description> Ultraschallbild </description>
+    </item>
+    
+    <item>
+      <title>Wir erwarten Welpen</title>
+      <link>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/1_mating_act/</link>
+      <pubDate>Sat, 23 Jul 2022 09:00:00 +0200</pubDate>
+      
+      <guid>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/1_mating_act/</guid>
+      <description> Kurt &amp;amp; Winnie </description>
     </item>
     
   </channel>

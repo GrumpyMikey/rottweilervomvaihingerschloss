@@ -1,19 +1,21 @@
 ---
 title: "ADRK"
-description: "#TODO | ADRK"
+description: "ADRK"
 featured_image: '/images/winnie-castle.png'
 menu:
   main:
-    weight: 1
-#omit_header_text: true
+    weight: 4
+omit_header_text: true
 #type: page
 #menu: main
 ---
-{{< figure src="/images/winnie-castle.png" title="Verträumter Blick aufs Vaihinger Schloss" >}}
 
-Bild funktioniert  
-![Winnie vor dem Schloss 2](images/winnie-castle.png)  
 
-_ADRK_ ... einfach ein weiteres TODO.  
-*Wir züchten im ADRK!*
+*Wir züchten im [ADRK](https://adrk.de/)!*
 
+{{< figure src="../images/adrk-logo-bunt-276x309.png" title="" link="https://adrk.de/"  target="_blank">}}
+
+
+{{< figure src="../images/adrk_documents_zuchtstaette.jpg" title="" >}}
+
+{{< figure src="../images/adrk_documents_zuechterseminar.jpg" title="">}}
