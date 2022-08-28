@@ -2,17 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/</loc>
-    <lastmod>2022-08-19T20:38:35+02:00</lastmod>
-    <priority>0</priority>
-  </url><url>
-    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/my-first-post/</loc>
-    <lastmod>2022-08-19T20:38:35+02:00</lastmod>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/</loc>
+    <lastmod>2022-08-17T09:00:00+02:00</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/</loc>
-    <lastmod>2022-08-19T20:38:35+02:00</lastmod>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/</loc>
+    <lastmod>2022-08-17T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/posts/first_puppies/</loc>
+    <lastmod>2022-08-17T09:00:00+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/adrk/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
@@ -20,7 +25,19 @@
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/impressum/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/tags/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://grumpymikey.github.io/rottweilervomvaihingerschloss/puppies/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
