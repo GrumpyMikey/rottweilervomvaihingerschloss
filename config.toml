@@ -10,6 +10,7 @@ MetaDataFormat = "yaml"
 #DefaultContentLanguage = "en"
 DefaultContentLanguage = "de"
 SectionPagesMenu = "main"
+# Anzahl der Posts unter "News"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
