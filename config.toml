@@ -1,5 +1,6 @@
 title = "Rottweiler vom Vaihinger Schloss"
-baseURL = "https://grumpymikey.github.io/rottweilervomvaihingerschloss/"
+#baseURL = "https://grumpymikey.github.io/rottweilervomvaihingerschloss/"
+baseURL = "https://www.rottweilervomvaihingerschloss.de"
 #languageCode = "en-us"
 languageCode = "de-de"
 theme = "ananke"
