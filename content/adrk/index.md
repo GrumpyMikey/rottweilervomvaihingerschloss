@@ -11,7 +11,11 @@ omit_header_text: true
 ---
 
 
-*Wir züchten im [ADRK](https://adrk.de/)!*
+### Wir züchten im [ADRK](https://adrk.de/)!
+
+Zwinger Nr.: 2473  
+<!-- FCI Nr.: 526/14 -->
+
 
 {{< figure src="../images/adrk-logo-bunt-276x309.png" title="" link="https://adrk.de/"  target="_blank">}}
 

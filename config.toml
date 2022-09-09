@@ -79,7 +79,3 @@ publishDir = "docs"
   [privacy.youtube]
     disable = false
     privacyEnhanced = false
-
-
-# TODO 
-## Umbennen Posts in "News"

@@ -11,3 +11,4 @@ omit_header_text: true
 ---
 {{< figure src="../images/cw_water.jpg" title="Winnie und Conny" >}}
 
+[Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")

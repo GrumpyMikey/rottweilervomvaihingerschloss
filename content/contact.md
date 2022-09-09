@@ -10,10 +10,24 @@ menu:
     weight: 5
 ---
 
-eMail: rottweiler.vom.vaihinger.schloss@gmail.com  
-WhatsApp: #TODO  
-Instagram: #TODO Insta
+### Rottweiler vom Vaihinger Schloss
+71665 Vaihingen an der Enz
 
-This is an example of a custom shortcode that you can put right into your content. You will need to add a form action to the the shortcode to make it work. Check out [Formspree](https://formspree.io/) for a simple, free form service. 
+---
 
-{{< form-contact action="https://example.com"  >}}
+#### Du hast verschiedene Möglichkeiten uns zu kontaktieren: 
+
+---
+
+|           |                                                                                                  |
+|-----------|--------------------------------------------------------------------------------------------------|
+| WhatsApp  | [ +4917695785459 ]( https://wa.me/+4917695785459 )                                               |
+| Telegram  | [ +4917695785459 ]( [xxx](https://telegram.me/+4917695785459) )                                  |
+| Instagram | [ Rottweiler vom Vaihinger Schloss ]( https://www.instagram.com/rottweilervomvaihingerschloss/ ) |
+| eMail     | info@rottweilervomvaihingerschloss.de                                                            |
+| Telefon   | [ +4917695785459 ]( tel:+4917695785459 )                                                         |
+
+---
+
+Gerne kannst Du auch unser Kontaktformular benutzen:  
+{{< form-contact action="https://formspree.io/f/mrgdeblp"  >}}

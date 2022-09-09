@@ -10,12 +10,19 @@ omit_header_text: true
 #menu: main
 ---
 
-# Winnie von der Bleichstrasse
+### Winnie von der Bleichstrasse
 
-{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" >}}  
+{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}  
 
-_Winnie von der Bleichstrasse_ (Geboren: _28.09.2017_)
+|               |            |
+|---------------|------------|
+| **Wurftag**   | 28.09.2017 |
+| **ZB-Nr.**    | ...        |
+| **HD**        | +/-        |
+| **ED**        | -          |
+| **JLPP**      | ...        |
+| **Prüfungen** | BH/VT, ZTP |
 
-{{< figure src="../images/Instagram.png" width="10%" title="" link="https://www.instagram.com/rottweilervomvaihingerschloss/"  target="_blank">}}
-
-TODO Link Harald 
+|   |   |
+|---|---|
+| **Winnie auf Instagram** | {{< figure src="../images/Instagram.png"  width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/winnievonderbleichstrasse/" target="_blank">}} |
