@@ -14,14 +14,14 @@ omit_header_text: true
 
 {{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}  
 
-|               |            |
-|---------------|------------|
-| **Wurftag**   | 28.09.2017 |
-| **ZB-Nr.**    | 131098     |
-| **HD**        | +/-        |
-| **ED**        | -          |
-| **JLPP**      | -N/N       |
-| **Prüfungen** | BH/VT, ZTP |
+|               |             |
+|---------------|-------------|
+| **Wurftag**   | 28.09.2017  |
+| **ZB-Nr.**    | ADRK 131098 |
+| **HD**        | +/-         |
+| **ED**        | -           |
+| **JLPP**      | N/N        |
+| **Prüfungen** | BH/VT, ZTP  |
 
 |   |   |
 |---|---|
