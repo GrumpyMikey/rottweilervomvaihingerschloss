@@ -18,7 +18,7 @@ menu:
 |           |                                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------------|
 | WhatsApp  | [ +4917695785459 ]( https://wa.me/+4917695785459 )                                               |
-| Telegram  | [ +4917695785459 ]( [xxx](https://telegram.me/+4917695785459) )                                  |
+| Telegram  | [ +4917695785459 ]( https://telegram.me/+4917695785459 )                                         |
 | Instagram | [ Rottweiler vom Vaihinger Schloss ]( https://www.instagram.com/rottweilervomvaihingerschloss/ ) |
 | eMail     | info@rottweilervomvaihingerschloss.de                                                            |
 | Telefon   | [ +4917695785459 ]( tel:+4917695785459 )                                                         |
