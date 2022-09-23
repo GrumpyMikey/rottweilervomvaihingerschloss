@@ -25,4 +25,10 @@ omit_header_text: true
 
 |   |   |
 |---|---|
-| **Winnie auf Instagram** | {{< figure src="../images/Instagram.png"  width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/winnievonderbleichstrasse/" target="_blank">}} |
+| **Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/winnievonderbleichstrasse/" target="_blank">}} |
+
+
+&nbsp;
+
+{{< figure src="../images/banner/Rottweiler_de_Banner_400x67.jpg" title="" alt="alt" caption="" link="https://www.rottweiler.de/" target="_blank">}}
+
