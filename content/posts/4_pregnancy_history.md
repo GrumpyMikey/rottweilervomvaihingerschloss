@@ -18,3 +18,5 @@ description: Der Bauch wächst
 {{< figure src="../../images/posts/Day_48.jpg" title="Tag 48" >}}  
 
 {{< figure src="../../images/posts/Day_55.jpg" title="Tag 55" >}}  
+
+{{< figure src="../../images/posts/Day_62.jpg" title="Tag 62" >}}  
