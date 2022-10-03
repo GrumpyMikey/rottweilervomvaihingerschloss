@@ -14,6 +14,9 @@ Die Eltern [Kurt](https://de.working-dog.com/dogs-details/6743917/Kurt-von-den-E
 
 #### Voraussichtlicher Wurftermin: 24.09.2022
 
+**Update 25.09.2022:** Der [A-Wurf]({{< ref "page/../../wuerfe/index.md" >}} "A-Wurf") ist da! 
+
+
 [Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")
 
 

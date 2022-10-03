@@ -13,4 +13,4 @@ draft: false
   
 {{< figure src="../../images/posts/Kurt_Winnie_Anzeige_1_Querformat.jpg" title="Kurt & Winnie" >}}  
 
-[Wurfplanung]({{< ref "../content/puppies/index.md" >}} "Wurfplanung")
+[Wurfplanung]({{< ref "../content/wurfplanung/index.md" >}} "Wurfplanung")
