@@ -12,7 +12,18 @@ omit_header_text: true
 
 # A-Wurf (25.09.2022)
 
-{{< figure src="../../images/wuerfe/a-wurf/a-team.jpg" title="" >}}  
+|   |   |
+|---|---|
+| **weitere Bilder und Videos findest du auf unserem Instagram-Account** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/rottweilervomvaihingerschloss/" target="_blank">}} |
+
+## 2022-10-13 (Tag 18)
+{{< figure src="../../images/wuerfe/a-wurf/a-team_20221013.jpg" title="" >}}  
+
+## 2022-10-08 (Tag 13)
+{{< figure src="../../images/wuerfe/a-wurf/a-team_20221008.jpg" title="Die Äuglein gehen auf" >}}  
+
+## 2022-09-26 (Tag 2)
+{{< figure src="../../images/wuerfe/a-wurf/a-team_20220926.jpg" title="" >}}  
 
 ## Grün
 
@@ -40,11 +51,11 @@ omit_header_text: true
 
 ## Pink
 
-{{< figure src="../../images/wuerfe/a-wurf/grau/Grey_01.jpg" title="" >}}  
-{{< figure src="../../images/wuerfe/a-wurf/grau/Grey_02.jpg" title="" >}}  
-{{< figure src="../../images/wuerfe/a-wurf/grau/Grey_03.jpg" title="" >}}  
-{{< figure src="../../images/wuerfe/a-wurf/grau/Grey_04.jpg" title="" >}}  
-{{< figure src="../../images/wuerfe/a-wurf/grau/Grey_05.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/pink/Pink_01.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/pink/Pink_02.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/pink/Pink_03.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/pink/Pink_04.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/pink/Pink_05.jpg" title="" >}}  
 
 ## Violett
 
