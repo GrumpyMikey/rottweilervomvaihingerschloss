@@ -8,6 +8,14 @@ menu:
 omit_header_text: true
 ---
 
+# B-Wurf
+
+Evtl. Frühling 2024 ... weitere Informationen folgen zu gegebener Zeit
+
+[Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")
+
+# A-Wurf
+
 {{< figure src="../../images/Kurt_Winnie_Anzeige_1_Querformat.jpg" caption="" >}}  
 
 Die Eltern [Kurt](https://de.working-dog.com/dogs-details/6743917/Kurt-von-den-Ellwanger-Bergen) & [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse)
@@ -16,8 +24,7 @@ Die Eltern [Kurt](https://de.working-dog.com/dogs-details/6743917/Kurt-von-den-E
 
 **Update 25.09.2022:** Der [A-Wurf]({{< ref "page/../../wuerfe/index.md" >}} "A-Wurf") ist da! 
 
-
-[Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")
+#### *(Alle Welpen sind schon vergeben)*
 
 
 

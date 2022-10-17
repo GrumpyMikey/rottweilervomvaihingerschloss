@@ -10,7 +10,9 @@ omit_header_text: true
 #menu: main
 ---
 
-# A-Wurf (25.09.2022)
+# A-Wurf vom 25.09.2022
+# *(Alle Welpen sind schon vergeben)*
+
 
 |   |   |
 |---|---|
