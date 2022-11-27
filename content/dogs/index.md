@@ -11,8 +11,9 @@ omit_header_text: true
 ---
 
 ### Winnie von der Bleichstrasse
-
-{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}  
+|               |             |
+|---------------|-------------|
+|               |{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}|
 
 |               |             |
 |---------------|-------------|
@@ -28,7 +29,37 @@ omit_header_text: true
 | **Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/winnievonderbleichstrasse/" target="_blank">}} |
 
 
+### Ares vom Vaihinger Schloss
+|               |             |
+|---------------|-------------|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|{{< figure src="../images/ares-vom-vaihinger-schloss.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}|
+
+|               |             |
+|---------------|-------------|
+| **Wurftag**   | 25.09.2022  |
+| **ZB-Nr.**    | ADRK 138468 |
+
+|   |   |
+|---|---|
+| **Ares und Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/die.rotti.gang/" target="_blank">}} |
+
+
+### Unsere Futterwahl
+
+Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von Granatapet.
+
+{{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
+
+
+|               |             |
+|---------------|-------------|
+|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|{{< figure src="../images/ares-granatapet-1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}|
+
+
 &nbsp;
 
-{{< figure src="../images/banner/Rottweiler_de_Banner_400x67.jpg" title="" alt="alt" caption="" link="https://www.rottweiler.de/" target="_blank">}}
+### weitere Links
 
+Schaut auch gerne hier mal vorbei ...
+
+{{< figure src="../images/banner/Rottweiler_de_Banner_400x67.jpg" title="" alt="alt" caption="" link="https://www.rottweiler.de/" target="_blank">}}
