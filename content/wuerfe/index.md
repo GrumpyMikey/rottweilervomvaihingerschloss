@@ -19,7 +19,7 @@ omit_header_text: true
 | **weitere Bilder und Videos findest du auf unserem Instagram-Account** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/rottweilervomvaihingerschloss/" target="_blank">}} |
 
 ## 2022-11-21 (Woche 8)
-{{< figure src="../../images/wuerfe/a-wurf/gruppenbild_20221121.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/a-wurf/gruppenbild_20221121.jpg" title="" caption="Amjay, Akko, Ares und Ahsoka" >}}  
 
 ## 2022-10-13 (Tag 18)
 {{< figure src="../../images/wuerfe/a-wurf/a-team_20221013.jpg" title="" >}}  

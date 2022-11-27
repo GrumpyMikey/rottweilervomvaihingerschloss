@@ -11,9 +11,7 @@ omit_header_text: true
 ---
 
 ### Winnie von der Bleichstrasse
-|               |             |
-|---------------|-------------|
-|               |{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}|
+{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
 
 |               |             |
 |---------------|-------------|
@@ -30,9 +28,7 @@ omit_header_text: true
 
 
 ### Ares vom Vaihinger Schloss
-|               |             |
-|---------------|-------------|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|{{< figure src="../images/ares-vom-vaihinger-schloss.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}|
+{{< figure src="../images/ares-vom-vaihinger-schloss.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 |               |             |
 |---------------|-------------|
@@ -50,10 +46,7 @@ Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural 
 
 {{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
 
-
-|               |             |
-|---------------|-------------|
-|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;|{{< figure src="../images/ares-granatapet-1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}|
+{{< figure src="../images/ares-granatapet-1.jpg" title="" alt="alt" caption="[https://www.granatapet.com](https://www.granatapet.com/)" link="https://www.granatapet.com/" target="_blank">}}
 
 
 &nbsp;
