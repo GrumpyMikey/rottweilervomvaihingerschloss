@@ -49,15 +49,15 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/links/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/tags/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/about/</loc>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-  </url><url>
-    <loc>https://www.rottweilervomvaihingerschloss.de/links/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>

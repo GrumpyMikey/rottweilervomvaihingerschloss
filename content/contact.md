@@ -7,7 +7,7 @@ type: page
 menu: main
 menu:
   main:
-    weight: 5
+    weight: 6
 ---
 
 ### Rottweiler vom Vaihinger Schloss
