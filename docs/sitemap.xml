@@ -57,6 +57,10 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/links/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/dogs/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
