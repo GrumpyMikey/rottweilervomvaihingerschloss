@@ -15,7 +15,7 @@ omit_header_text: true
 Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 
 
-{{< figure src="../images/banner/Animals_Hope_Flyer.jpg" title="" alt="alt" link="https://www.animalshope-physio.de/" target="_blank">}}
+{{< figure src="../images/banner/Animals_Hope_Flyer_v2.jpg" title="" alt="alt" link="https://www.animalshope-physio.de/" target="_blank">}}
 
 |           |                                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------------|
