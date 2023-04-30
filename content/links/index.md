@@ -34,6 +34,7 @@ Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von Granatapet.
 
 {{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
+{{< figure src="../images/banner/Granatapet_Winnie_Ares_Trockenfutter.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
 
 
 &nbsp;
