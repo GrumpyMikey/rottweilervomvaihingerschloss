@@ -13,6 +13,10 @@ omit_header_text: true
 ### Winnie von der Bleichstrasse
 {{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
 
+{{< figure src="../images/Winnie_Schnee.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
+{{< figure src="../images/Winnie_Wasser.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
 |               |             |
 |---------------|-------------|
 | **Wurftag**   | 28.09.2017  |
@@ -31,7 +35,7 @@ omit_header_text: true
 {{< figure src="../images/Ares_2.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Ares_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
-1
+
 {{< figure src="../images/ares-vom-vaihinger-schloss.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 |               |             |
