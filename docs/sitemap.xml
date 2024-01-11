@@ -3,16 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.rottweilervomvaihingerschloss.de/</loc>
-    <lastmod>2022-09-25T09:00:00+02:00</lastmod>
+    <lastmod>2023-12-31T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.rottweilervomvaihingerschloss.de/posts/5_puppies_arrived/</loc>
-    <lastmod>2022-09-25T09:00:00+02:00</lastmod>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/7_silvester_2023/</loc>
+    <lastmod>2023-12-31T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/posts/</loc>
+    <lastmod>2023-12-31T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/6_christmas_2023/</loc>
+    <lastmod>2023-12-24T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/5_puppies_arrived-copy/</loc>
     <lastmod>2022-09-25T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>

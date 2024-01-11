@@ -10,6 +10,9 @@ omit_header_text: true
 #menu: main
 ---
 
+
+{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
 ### Winnie von der Bleichstrasse
 {{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
 
