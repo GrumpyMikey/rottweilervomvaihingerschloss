@@ -10,7 +10,8 @@ omit_header_text: true
 
 # B-Wurf
 
-Evtl. Frühling 2024 ... weitere Informationen folgen zu gegebener Zeit
+Wenn alles gut läuft erwarten wir im März 2024 Welpen.  
+Wir halten euch hier auf dem Laufenden ...
 
 [Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")
 

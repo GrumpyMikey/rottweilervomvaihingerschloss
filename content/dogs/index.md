@@ -11,7 +11,9 @@ omit_header_text: true
 ---
 
 
-{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption="Winnie und Ares (Dezember 2023)"  target="_blank" >}}
+&nbsp;
+
 
 ### Winnie von der Bleichstrasse
 {{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
