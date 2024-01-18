@@ -1,6 +1,6 @@
 ---
 title: "Deckakt geglückt"
-date: 2023-01-13T18:00:00+02:00
+date: 2024-01-13T18:00:00+02:00
 featured_image: '/images/winnie-castle-klein.jpg'
 draft: false
 #tags: ["puppies"]
