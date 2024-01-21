@@ -11,7 +11,9 @@ omit_header_text: true
 ---
 
 
-{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption="Winnie und Ares (Dezember 2023)"  target="_blank" >}}
+{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+[Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) und [Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss) (Dezember 2023)  
+
 &nbsp;
 
 
