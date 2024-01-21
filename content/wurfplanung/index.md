@@ -20,7 +20,7 @@ Wenn alles gut läuft erwarten wir im März 2024 Welpen.
 
 Wir halten euch [hier]({{< ref "page/../../content/posts/9_Deckakt.md" >}} "Kontaktiere uns!") auf dem Laufenden.  
 
-[Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")
+[Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")  
 
 # A-Wurf
 
