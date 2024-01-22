@@ -11,7 +11,9 @@ description: Jetzt heißt es ... Daumen drücken
 #disable_share: false
 ---
 
-{{< figure src="../../images/Progesterontest_012024.jpg" title="" caption="" >}}  
+{{< figure src="../../images/posts/Camaro_Winnie_Anzeige_2_Querformat.jpg" title="" caption="" >}}  
+
+{{< figure src="../../images/Progesterontest_012024.jpg" title="" caption="" >}}
 
 Drückt die Daumen, dass Winnie wieder aufgenommen hat 🍀
 

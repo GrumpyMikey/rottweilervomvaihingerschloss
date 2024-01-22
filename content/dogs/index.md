@@ -18,11 +18,13 @@ omit_header_text: true
 
 
 ### Winnie von der Bleichstrasse
-{{< figure src="../images/winnie-von-der-bleichstrasse.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
+{{< figure src="../images/winnie-von-der-bleichstrasse_2.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
 
-{{< figure src="../images/Winnie_Schnee.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+{{< figure src="../images/Winnie_Schnee_neu.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Winnie_Wasser.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
+{{< figure src="../images/Winnie_Toskana_2023.jpg" title="" link="https://www.instagram.com/die.rotti.gang/" title="" caption=""  target="_blank" >}}
 
 |               |             |
 |---------------|-------------|
@@ -39,11 +41,14 @@ omit_header_text: true
 
 
 ### Ares vom Vaihinger Schloss
+{{< figure src="../images/Ares_Collage_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
 {{< figure src="../images/Ares_2.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Ares_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/ares-vom-vaihinger-schloss.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
 
 |               |             |
 |---------------|-------------|
