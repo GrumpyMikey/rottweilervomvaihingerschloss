@@ -22,6 +22,8 @@ Wir halten euch [hier]({{< ref "page/../../content/posts/9_Deckakt.md" >}} "Kont
 
 [Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")  
 
+{{< figure src="../../images/Camaro_Collage.jpg" caption="" link="https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse" target="_blank">}}
+
 # A-Wurf
 
 {{< figure src="../../images/Kurt_Winnie_Anzeige_1_Querformat.jpg" caption="" >}}  
