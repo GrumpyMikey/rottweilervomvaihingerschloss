@@ -18,7 +18,7 @@ Wenn alles gut läuft erwarten wir im März 2024 Welpen.
 
 #### Voraussichtlicher Wurftermin: 15.03.2024  
 
-Wir halten euch [hier]({{< ref "page/../../content/posts/9_Deckakt.md" >}} "Kontaktiere uns!") auf dem Laufenden.  
+Wir halten euch [hier]({{< ref "page/../../content/posts/_index.md" >}} "Kontaktiere uns!") auf dem Laufenden.  
 
 [Kontakt]({{< ref "page/../../contact.md" >}} "Kontaktiere uns!")  
 
