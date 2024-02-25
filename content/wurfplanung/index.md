@@ -16,9 +16,16 @@ Die zukünftigen Eltern [Camaro](https://de.working-dog.com/dogs-details/7478865
 
 #### Voraussichtlicher Wurftermin: 15.03.2024  
 
-Wir halten euch [hier]({{< ref "page/../../content/posts/_index.md" >}} "Kontaktiere uns!") auf dem Laufenden.  
+Wir halten euch [hier]({{< ref "page/../../content/links/index.md" >}} "Kontaktiere uns!") auf dem Laufenden.  
 
 {{< figure src="../../images/Camaro_Collage.jpg" caption="" link="https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse" target="_blank">}}
+
+
+# Tipp
+
+***Briard Welpen gesucht? Schaut [hier]({{< ref "page/../../content/_index.md" >}} "") für mehr Infos***
+
+&nbsp;
 
 
 # A-Wurf

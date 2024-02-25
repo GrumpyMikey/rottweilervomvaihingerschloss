@@ -10,6 +10,19 @@ omit_header_text: true
 #menu: main
 ---
 
+### Briard Welpen gesucht?
+Eine Freundin erwartet **Ende März 2024** mit Ihrer Millie Ihren A-Wurf. Schaut gerne dort vorbei.
+{{< figure src="../images/Silke_A-Wurf.jpg" title="" alt="alt" link="https://www.briard-gordongekko.de/" target="_blank">}}
+
+|           |                                                                                                  |
+|-----------|--------------------------------------------------------------------------------------------------|
+| Homepage  | [ https://www.briard-gordongekko.de/ ]( https://www.briard-gordongekko.de/ )                     |
+| Facebook  | [ https://www.facebook.com/silke.follner.3/   ]( https://www.facebook.com/silke.follner.3/ )     |
+| eMail     | silke.follner@web.de                                                                             |
+| Telefon   | [ +49(0)157-55740824 ]( tel:+49(0)157-55740824 )                                                 |
+
+&nbsp;
+
 ### Tierphysio gesucht?
 
 Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
