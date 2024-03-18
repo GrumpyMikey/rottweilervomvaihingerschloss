@@ -10,6 +10,24 @@ omit_header_text: true
 #menu: main
 ---
 
+# B-Wurf vom 16.03.2024  
+
+## 2024-03-16 (Tag 1)
+{{< figure src="../../images/wuerfe/b-wurf/b-team_20240316.jpg" title="" >}}
+
+Vorstellungsrunde:
+{{< figure src="../../images/wuerfe/b-wurf/01_schwarz_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/02_hellrosa_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/03_rosa_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/04_blau_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/05_gruen_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/06_rot_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/07_lila_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/08_orange_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_1.jpg" title="" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_1.jpg" title="" >}}  
+
+
 # A-Wurf vom 25.09.2022
 # *(Alle Welpen sind schon vergeben)*
 

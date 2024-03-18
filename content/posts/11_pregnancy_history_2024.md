@@ -11,4 +11,4 @@ description: Der Bauch wächst wieder
 #disable_share: false
 ---
   
-{{< figure src="../../images/posts/Traechtigkeit_2024.jpg" title="Vorrausichtlicher Wurftermin 15./16.03.2024" >}}  
+{{< figure src="../../images/posts/Traechtigkeit_2024_2.jpg" title="Vorrausichtlicher Wurftermin 15./16.03.2024" >}}  
