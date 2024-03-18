@@ -3,12 +3,17 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.rottweilervomvaihingerschloss.de/</loc>
-    <lastmod>2024-03-06T09:00:00+02:00</lastmod>
+    <lastmod>2024-03-16T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/13_puppies_arrived_2024/</loc>
+    <lastmod>2024-03-16T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/posts/</loc>
-    <lastmod>2024-03-06T09:00:00+02:00</lastmod>
+    <lastmod>2024-03-16T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
