@@ -12,6 +12,24 @@ omit_header_text: true
 
 # B-Wurf vom 16.03.2024  
 
+## 2024-04-16 (Tag 31)
+
+{{< figure src="../../images/wuerfe/b-wurf/01_schwarz_Tag_30_2.jpg" title="Mr Schwarz" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/02_hellrosa_Tag_30.jpg" title="Mrs Hellrosa" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/03_rosa_Tag_30.jpg" title="Mrs Rosa" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/04_blau_Tag_30.jpg" title="Mr Blau" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/05_gruen_Tag_30.jpg" title="Mr Grün" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/06_rot_Tag_30.jpg" title="Mrs Rot" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/07_lila_Tag_30.jpg" title="Mrs Lila" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/08_orange_Tag_30_2.jpg" title="Mrs Orange" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_30.jpg" title="Mr Grau" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_30.jpg" title="Mrs Weiß/Gelb" >}}  
+
+Hier nochmal alle zusammen:
+{{< figure src="../../images/wuerfe/b-wurf/b-team_20240416.jpg" title="" >}}  
+
+&nbsp;
+
 ## 2024-03-16 (Tag 1)
 {{< figure src="../../images/wuerfe/b-wurf/b-team_20240316.jpg" title="" >}}
 
