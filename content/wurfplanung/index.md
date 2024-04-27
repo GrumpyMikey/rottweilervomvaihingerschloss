@@ -10,6 +10,8 @@ omit_header_text: true
 
 # B-Wurf
 
+#### *(Update: Alle Welpen sind schon vergeben)*
+
 {{< figure src="../../images/Camaro_Winnie_Anzeige_1_Querformat.jpg" caption="" >}}  
 
 Die zukünftigen Eltern [Camaro](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse) & [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse)

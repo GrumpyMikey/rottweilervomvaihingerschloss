@@ -12,6 +12,8 @@ omit_header_text: true
 
 # B-Wurf vom 16.03.2024  
 
+# *(Alle Welpen sind schon vergeben)*
+
 ## 2024-04-16 (Tag 31)
 
 {{< figure src="../../images/wuerfe/b-wurf/01_schwarz_Tag_30_2.jpg" title="Mr Schwarz" >}}  
