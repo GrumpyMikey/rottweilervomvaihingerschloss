@@ -1,6 +1,6 @@
 ---
 title: "Wann kommt der nächste Wurf?"
-date: 2024-03-16T09:00:00+02:00
+date: 2024-10-13T09:00:00+02:00
 featured_image: '/images/winnie-castle-klein.jpg'
 draft: false
 #tags: ["puppies"]
