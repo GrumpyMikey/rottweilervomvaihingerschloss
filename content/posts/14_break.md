@@ -21,4 +21,3 @@ Unsere Hündin Buffy darf vermutlich in Zukunft Ihre Nachfolge antreten. Vorauss
 Diese Prüfungen zu bestehen ist unser nächstes Ziel.
 
 Wir halten euch hier auf dem Laufenden. Vielleicht gibt es dann im Jahr 2027 wieder kleine Rottis vom Vaihinger Schloss. Die Zukunft wird es zeigen.
-
