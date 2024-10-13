@@ -12,7 +12,7 @@ omit_header_text: true
 
 
 {{< figure src="../images/Alle_Hunde_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
-[Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse), [Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss) und Buffy (Oktober 2024)  
+[Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss), Buffy und [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) (Oktober 2024)  
 
 &nbsp;
 
@@ -60,6 +60,7 @@ omit_header_text: true
 
 
 ### Buffy vom Vaihinger Schloss
+{{< figure src="../images/Buffy_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 |               |             |
 |---------------|-------------|
