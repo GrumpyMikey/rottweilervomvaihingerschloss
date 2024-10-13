@@ -58,6 +58,10 @@ omit_header_text: true
 | **ED**        | -           |
 | **JLPP**      | N/N         |
 
+|   |   |
+|---|---|
+| **Ares und Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/die.rotti.gang/" target="_blank">}} |
+
 
 ### Buffy vom Vaihinger Schloss
 {{< figure src="../images/Buffy_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
@@ -66,12 +70,6 @@ omit_header_text: true
 |---------------|-------------|
 | **Wurftag**   | 16.03.2024  |
 | **ZB-Nr.**    | ADRK 140389 |
-
-
-|   |   |
-|---|---|
-| **Ares und Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/die.rotti.gang/" target="_blank">}} |
-
 
 
 ### Unsere Futterwahl
