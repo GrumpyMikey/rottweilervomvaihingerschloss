@@ -11,8 +11,8 @@ omit_header_text: true
 ---
 
 
-{{< figure src="../images/Winnie_Ares_5.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
-[Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) und [Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss) (Dezember 2023)  
+{{< figure src="../images/Alle_Hunde_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+[Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse), [Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss) und Buffy (Oktober 2024)  
 
 &nbsp;
 
@@ -32,7 +32,7 @@ omit_header_text: true
 | **ZB-Nr.**    | ADRK 131098 |
 | **HD**        | +/-         |
 | **ED**        | -           |
-| **JLPP**      | N/N        |
+| **JLPP**      | N/N         |
 | **Prüfungen** | BH/VT, ZTP  |
 
 |   |   |
@@ -54,10 +54,23 @@ omit_header_text: true
 |---------------|-------------|
 | **Wurftag**   | 25.09.2022  |
 | **ZB-Nr.**    | ADRK 138468 |
+| **HD**        | -           |
+| **ED**        | -           |
+| **JLPP**      | N/N         |
+
+
+### Buffy vom Vaihinger Schloss
+
+|               |             |
+|---------------|-------------|
+| **Wurftag**   | 16.03.2024  |
+| **ZB-Nr.**    | ADRK 140389 |
+
 
 |   |   |
 |---|---|
 | **Ares und Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/die.rotti.gang/" target="_blank">}} |
+
 
 
 ### Unsere Futterwahl
