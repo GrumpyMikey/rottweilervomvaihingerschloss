@@ -12,7 +12,7 @@ omit_header_text: true
 
 
 {{< figure src="../images/Alle_Hunde_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
-[Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss), Buffy und [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) (Oktober 2024)  
+[Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss), [Buffy](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss) und [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) (Oktober 2024)  
 
 &nbsp;
 
@@ -71,6 +71,8 @@ omit_header_text: true
 | **Wurftag**   | 16.03.2024  |
 | **ZB-Nr.**    | ADRK 140389 |
 
+
+&nbsp;
 
 ### Unsere Futterwahl
 
