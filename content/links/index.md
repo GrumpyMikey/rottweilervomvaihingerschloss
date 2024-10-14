@@ -42,7 +42,11 @@ Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural 
 
 ### Rottweilerzüchter
 Wärmstens empfohlen, die Züchter von Winnie:
-[ http://www.von-der-bleichstrasse.de/Kontakt.html  ]( http://www.von-der-bleichstrasse.de/Kontakt.html ) 
+|           |                                                                                                           |
+|-----------|-----------------------------------------------------------------------------------------------------------|
+| Homepage  | [http://www.von-der-bleichstrasse.de/Kontakt.html ]( http://www.von-der-bleichstrasse.de/Kontakt.html )  |
+| eMail     | hbmenzemer@web.de                                                                                         |
+| Telefon   | [ +49(0)7237-7440 ]( tel:+49(0)7237-7440 )                                                                |
 
 
 &nbsp;
@@ -50,8 +54,6 @@ Wärmstens empfohlen, die Züchter von Winnie:
 
 ### Briard Welpen gesucht?
 Aktuell kein Wurf, aber bei zukünftigen Interesse schaut gerne dort vorbei.
-{{< figure src="../images/Silke_A-Wurf.jpg" title="" alt="alt" link="https://www.briard-gordongekko.de/" target="_blank">}}
-
 |           |                                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------------|
 | Homepage  | [ https://www.briard-gordongekko.de/ ]( https://www.briard-gordongekko.de/ )                     |
