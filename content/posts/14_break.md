@@ -13,7 +13,7 @@ description: Wir machen eine Pause
 
 
 {{< figure src="../../images/Alle_Hunde_2.jpg" title="" >}}    
-Winnie darf nun in die wohlverdiente Mama-Rente gehen.
+Winnie darf in die wohlverdiente Mama-Rente gehen.
 Sie ist nun 7 Jahre alt. Dies bedeutet, bei unserem nächster Wurf wäre sie also schon 8 Jahre alt. Auch wenn wir noch weiter mit ihr züchten dürften, ist das für uns ein Altern, wo wir sagen: Das muss nicht sein.
 Winnie ist eine tolle Hündin und Mama, darf jetzt aber ohne den Schwangerschafts- und Geburtsstress ihr Leben weiter genießen. Das hat sie sich mehr als verdient. Wir sind stolz auf sie.
 
