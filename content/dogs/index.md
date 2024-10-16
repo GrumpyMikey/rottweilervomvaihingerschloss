@@ -41,6 +41,8 @@ omit_header_text: true
 
 
 ### Ares vom Vaihinger Schloss
+{{< figure src="../images/Ares_3.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+
 {{< figure src="../images/Ares_Collage_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Ares_2.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
