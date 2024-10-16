@@ -13,6 +13,9 @@ omit_header_text: true
 Evtl. 2027
 
 
+&nbsp;
+
+
 # B-Wurf
 
 #### *(Update: Alle Welpen sind schon vergeben)*
@@ -27,10 +30,6 @@ Wir halten euch [hier]({{< ref "page/../../posts/_index.md" >}} "Kontaktiere uns
 
 {{< figure src="../../images/Camaro_Collage.jpg" caption="" link="https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse" target="_blank">}}
 
-
-# Tipp
-
-***Briard Welpen gesucht? Schaut [hier]({{< ref "page/../../content/links/index.md" >}} "") für mehr Infos***
 
 &nbsp;
 
