@@ -12,8 +12,8 @@ description: Merry Christmas
 ---
 
 {{< figure src="../../images/posts/Weihnachten_2024.jpg" title="" caption="Frohe Weihnachten an alle" >}}  
-{{< figure src="../../images/posts/Weihnachten_2024_Winnie.jpg" title="" caption="Winnie" >}}  
-{{< figure src="../../images/posts/Weihnachten_2024_Ares.jpg" title="" caption="Ares" >}}  
-{{< figure src="../../images/posts/Weihnachten_2024_Buffy.jpg" title="" caption="Buffy" >}}  
+{{< figure src="../../images/posts/Weihnachten_2024_Winnie.jpg" title="" caption="Winnie (7 Jahre)" >}}  
+{{< figure src="../../images/posts/Weihnachten_2024_Ares.jpg" title="" caption="Ares (2 Jahre)" >}}  
+{{< figure src="../../images/posts/Weihnachten_2024_Buffy.jpg" title="" caption="Buffy (9 Monate)" >}}  
 
 [Inspirationen](https://www.youtube.com/watch?v=YYz3xO9WM_A) für die Weihnachtsbilder und [Overlays](https://www.youtube.com/watch?v=cGwAZa8qiJY) von [www.thinkpawsitive.de](https://www.thinkpawsitive.de/) {{< figure src="../../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/thinkpawsitive.de/" target="_blank">}}
