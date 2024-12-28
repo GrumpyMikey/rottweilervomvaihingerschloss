@@ -10,8 +10,8 @@ omit_header_text: true
 
 # C-Wurf
 
-Evtl. 2027
-
+Evtl. 2027. Die Hintergründe findet ihr [hier]({{< ref "page/../../posts/14_break.md" >}} "Nächster Wurf 2027?").
+Wir halten euch in den [News]({{< ref "page/../../posts/_index.md" >}} "News") auf dem Laufenden. 
 
 &nbsp;
 
