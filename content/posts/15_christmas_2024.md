@@ -11,7 +11,7 @@ description: Merry Christmas
 #disable_share: false
 ---
 
-{{< figure src="../../images/posts/Weihnachten_2024.jpg" title="" caption="Frohe Weihnachten an alle" >}}  
+{{< figure src="../../images/posts/Weihnachten_2024.jpg" title="" caption="Frohe Weihnachten an alle von" >}}  
 {{< figure src="../../images/posts/Weihnachten_2024_Winnie.jpg" title="" caption="Winnie (7 Jahre)" >}}  
 {{< figure src="../../images/posts/Weihnachten_2024_Ares.jpg" title="" caption="Ares (2 Jahre)" >}}  
 {{< figure src="../../images/posts/Weihnachten_2024_Buffy.jpg" title="" caption="Buffy (9 Monate)" >}}  
