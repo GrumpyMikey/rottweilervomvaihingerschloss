@@ -1,7 +1,7 @@
 ---
 title: "Frohe Weihnachten 2024"
 date: 2024-12-24T09:00:00+02:00
-featured_image: '/images/winnie-castle-klein.jpg'
+featured_image: '/images/posts/Weihnachten_2024_breit.jpg'
 draft: false
 #tags: ["puppies"]
 description: Merry Christmas
