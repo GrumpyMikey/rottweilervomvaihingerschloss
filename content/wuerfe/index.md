@@ -28,7 +28,7 @@ omit_header_text: true
 {{< figure src="../../images/wuerfe/b-wurf/06_rot_Tag_30.jpg" title="Mrs Rot - Bina" >}}  
 {{< figure src="../../images/wuerfe/b-wurf/07_lila_Tag_30.jpg" title="Mrs Lila - Bo" >}}  
 {{< figure src="../../images/wuerfe/b-wurf/08_orange_Tag_30_2.jpg" title="Mrs Orange - Buffy" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_30.jpg" title="Mr Grau - Buddy - 💔 RIP" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_30.jpg" title="Mr Grau - Buddy 🖤" >}}  
 {{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_30.jpg" title="Mrs Weiß/Gelb - Bente" >}}  
 
 Hier nochmal alle zusammen:
