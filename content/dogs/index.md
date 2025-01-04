@@ -81,21 +81,22 @@ omit_header_text: true
 | **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
 | **Vater**     | [Camaro von der Bleichstrasse](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse) |
 | **ZB-Nr.**    | ADRK 140389                                                                                                  |
-| **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)         |
+| **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)     |
 
 
 &nbsp;
 
 ### Unsere Futterwahl
 
-Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von Granatapet.
+Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von [Granatapet](https://www.granatapet.de/hundefutter/natural-taste).
 
-{{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
+{{< figure src="../images/ares-granatapet-1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.de/" target="_blank">}}
 
-{{< figure src="../images/ares-granatapet-1.jpg" title="" alt="alt" caption="[https://www.granatapet.com](https://www.granatapet.com/)" link="https://www.granatapet.com/" target="_blank">}}
+Weitere Infos findet ihr [hier]({{< ref "page/../../links/index.md#ankerpunkt-futter" >}}) auf unserer Partnerseite.
 
 
 &nbsp;
+
 
 ### weitere Links
 

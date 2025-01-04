@@ -46,7 +46,8 @@ Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 
 ### Hundeschule gesucht? {#ankerpunkt-hundeschule}
 
-Hier meine Herzensempfehlung ❤️ Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich.  
+Hier meine Herzensempfehlung ❤️ 
+Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich.  
 Weitere Infos findet ihr auf Ihrer Homepage.
 
 {{< figure src="../images/hundeschule/Hundeschule_Einzelstück_Logo.png" title="" alt="alt" link="https://hundeschule-einzelstueck.de/" target="_blank">}}
@@ -67,8 +68,19 @@ Weitere Infos findet ihr auf Ihrer Homepage.
 
 Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von Granatapet.
 
-{{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
-{{< figure src="../images/banner/Granatapet_Winnie_Ares_Trockenfutter.jpg" title="" alt="alt" caption="" link="https://www.granatapet.com/" target="_blank">}}
+{{< figure src="../images/banner/Granatapet_Banner_1.jpg" title="" alt="alt" caption="" link="https://www.granatapet.de/" target="_blank">}}
+{{< figure src="../images/banner/Granatapet_Winnie_Ares_Trockenfutter.jpg" title="" alt="alt" caption="" link="https://www.granatapet.de/hundefutter/natural-taste/" target="_blank">}}
+
+
+Mit dem Partnercode *ROTTWEILER* bekommt ihr bei eurer ersten Bestellung einen Rabatt. Gerne könnt ihr den Partnercode auch speichern und immer verwenden, dann bekommen Winnie, Ares und Buffy ein kleines Dankeschön. Natürlich nur wenn ihr wollt, ist kein Muss 😊  
+Granatapet hat auch oft Aktionen bei denen man Prozente bekommt. Diesen Aktionscode könnt ihr unabhängig vom Partnercode zusätzlich angeben.  
+Schaut ab und zu mal vorbei um keinen Rabatt zu verpassen 😉
+
+|                          |                                                                                                                 |
+|--------------------------|-----------------------------------------------------------------------------------------------------------------|
+| Homepage                 | [ https://www.granatapet.de ]( https://www.granatapet.de/ )                                                     |
+| Natural Taste Produkte   | [ https://www.granatapet.de/hundefutter/natural-taste ]( https://www.granatapet.de/hundefutter/natural-taste/ ) |
+| Instagram                | [ granatapet.de ]( https://www.instagram.com/granatapet.de/ )                                                   |
 
 
 &nbsp;
@@ -78,7 +90,7 @@ Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural 
 Wärmstens empfohlen, die Züchter von Winnie:
 |           |                                                                                                           |
 |-----------|-----------------------------------------------------------------------------------------------------------|
-| Homepage  | [http://www.von-der-bleichstrasse.de/Kontakt.html ]( http://www.von-der-bleichstrasse.de/Kontakt.html )  |
+| Homepage  | [http://www.von-der-bleichstrasse.de/Kontakt.html ]( http://www.von-der-bleichstrasse.de/Kontakt.html )   |
 | eMail     | hbmenzemer@web.de                                                                                         |
 | Telefon   | [ +49(0)7237-7440 ]( tel:+49(0)7237-7440 )                                                                |
 
