@@ -1,6 +1,6 @@
 ---
-title: "Links"
-description: "Links"
+title: "Partner"
+description: "Partner und wertvolle Links"
 featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
@@ -10,7 +10,22 @@ omit_header_text: true
 #menu: main
 ---
 
-### Tierphysio gesucht?
+Hier findet ihr meine Empfehlungen zu folgenden Themen:  
+[Tierphysio](#ankerpunkt-tierphysio)  
+[Hundeschule](#ankerpunkt-hundeschule)  
+[Futter](#ankerpunkt-futter)  
+[Züchter](#ankerpunkt-zuechter)  
+
+Wir stehen zu 100% hinter unseren Empfehlungen. Bei Fragen könnt Ihr euch auch gerne erst an uns wenden. Wir stelle den Kontakt gerne her.  
+  
+Hinweis zu den Partner-Links:  
+Wir möchten darauf hinweisen, dass wir keinerlei finanzielle Vergütung für die Empfehlung oder Verlinkung der hier aufgeführten Partner erhalten. Alle Empfehlungen basieren ausschließlich auf unserer persönlichen Überzeugung und positiven Erfahrungen.
+
+
+&nbsp;
+
+
+### Tierphysio gesucht? {#ankerpunkt-tierphysio}
 
 Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 
@@ -29,7 +44,26 @@ Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 &nbsp;
 
 
-### Hundefutter von Granatapet
+### Hundeschule gesucht? {#ankerpunkt-hundeschule}
+
+Hier meine Herzensempfehlung ❤️ Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich.  
+Weitere Infos findet ihr auf Ihrer Homepage.
+
+{{< figure src="../images/hundeschule/Hundeschule_Einzelstück_Logo.png" title="" alt="alt" link="https://hundeschule-einzelstueck.de/" target="_blank">}}
+
+|           |                                                                                                  |
+|-----------|--------------------------------------------------------------------------------------------------|
+| Homepage  | [ https://hundeschule-einzelstueck.de/ ]( https://hundeschule-einzelstueck.de/ )                 |
+| Instagram | [ hundeschule_einzelstueck.de ]( https://www.instagram.com/hundeschule_einzelstueck.de/ )        |
+| facebook  | [ Hundeschule Einzelstück ]( https://www.facebook.com/profile.php?id=100011541300604 )           |
+| eMail     | hundeschule-einzelstueck@mail.de                                                                 |
+| Telefon   | [ +49162-2429770 ]( tel:+491622429770 )                                                          |
+
+
+&nbsp;
+
+
+### Hundefutter von Granatapet {#ankerpunkt-futter}
 
 Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural Taste von Granatapet.
 
@@ -40,7 +74,7 @@ Unsere Hunde, wie auch die Welpen, bekommen das Trockenfutter der Sorte Natural 
 &nbsp;
 
 
-### Rottweilerzüchter
+### Rottweilerzüchter {#ankerpunkt-zuechter}
 Wärmstens empfohlen, die Züchter von Winnie:
 |           |                                                                                                           |
 |-----------|-----------------------------------------------------------------------------------------------------------|

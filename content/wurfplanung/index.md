@@ -7,8 +7,13 @@ menu:
     weight: 2
 omit_header_text: true
 ---
+[A](#anker-a-wurf)  [B](#anker-b-wurf)  [C](#anker-c-wurf)  
 
-# C-Wurf
+
+&nbsp;
+
+
+# C-Wurf {#anker-c-wurf}
 
 Evtl. 2027.  
 
@@ -19,7 +24,7 @@ Wir halten euch in den [News]({{< ref "page/../../posts/_index.md" >}} "News") a
 &nbsp;
 
 
-# B-Wurf
+# B-Wurf {#anker-b-wurf}
 
 #### *(Update: Alle Welpen sind schon vergeben)*
 
@@ -37,7 +42,7 @@ Die Eltern [Camaro](https://de.working-dog.com/dogs-details/7478865/Camaro-von-d
 &nbsp;
 
 
-# A-Wurf
+# A-Wurf {#anker-a-wurf}
 
 {{< figure src="../../images/Kurt_Winnie_Anzeige_1_Querformat.jpg" caption="" >}}  
 

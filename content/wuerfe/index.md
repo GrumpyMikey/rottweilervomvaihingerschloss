@@ -9,9 +9,13 @@ omit_header_text: true
 #type: page
 #menu: main
 ---
+[A](#anker-a-wurf)  [B](#anker-b-wurf)  
 
-# B-Wurf vom 16.03.2024  
 
+&nbsp;
+
+
+# B-Wurf vom 16.03.2024 {#anker-b-wurf}
 # *(Alle Welpen sind schon vergeben)*
 
 ## 2024-04-16 (Tag 31)
@@ -48,7 +52,7 @@ Vorstellungsrunde:
 {{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_1.jpg" title="" >}}  
 
 
-# A-Wurf vom 25.09.2022
+# A-Wurf vom 25.09.2022 {#anker-a-wurf}
 # *(Alle Welpen sind schon vergeben)*
 
 

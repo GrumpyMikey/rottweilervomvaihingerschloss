@@ -1,6 +1,6 @@
 ---
 title: "Unsere Hunde"
-description: "Unsere Hunde)"
+description: "Unsere Hunde"
 featured_image: '/images/winnie-castle-klein.jpg'
 menu:
   main:
@@ -12,12 +12,12 @@ omit_header_text: true
 
 
 {{< figure src="../images/Alle_Hunde_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
-[Ares](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss), [Buffy](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss) und [Winnie](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) (Oktober 2024)  
+[Ares](#ankerpunkt-ares), [Buffy](#ankerpunkt-buffy) und [Winnie](#ankerpunkt-winnie) (Oktober 2024)  
 
 &nbsp;
 
 
-### Winnie von der Bleichstrasse
+### Winnie von der Bleichstrasse {#ankerpunkt-winnie}
 {{< figure src="../images/winnie-von-der-bleichstrasse_2.jpg" title="" link="https://www.instagram.com/winnievonderbleichstrasse/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Winnie_Schnee_neu.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
@@ -36,13 +36,14 @@ omit_header_text: true
 | **ED**        | -                                                                                                          |
 | **JLPP**      | N/N                                                                                                        |
 | **Prüfungen** | BH/VT, ZTP                                                                                                 |
+| **Link**      | [Winnie auf working-dog.com](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
 
 |   |   |
 |---|---|
 | **Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/winnievonderbleichstrasse/" target="_blank">}} |
 
 
-### Ares vom Vaihinger Schloss
+### Ares vom Vaihinger Schloss {#ankerpunkt-ares}
 {{< figure src="../images/Ares_3.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 {{< figure src="../images/Ares_Collage_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
@@ -63,13 +64,15 @@ omit_header_text: true
 | **HD**        | -                                                                                                              |
 | **ED**        | -                                                                                                              |
 | **JLPP**      | N/N                                                                                                            |
+| **Prüfungen** | BH/VT                                                                                                          |
+| **Link**      | [Ares auf working-dog.com](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss)         |
 
 |   |   |
 |---|---|
 | **Ares und Winnie auf Instagram** | {{< figure src="../images/Instagram.png" width="60px" title="" alt="alt" caption="" link="https://www.instagram.com/die.rotti.gang/" target="_blank">}} |
 
 
-### Buffy vom Vaihinger Schloss
+### Buffy vom Vaihinger Schloss {#ankerpunkt-buffy}
 {{< figure src="../images/Buffy_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 |               |                                                                                                              |
@@ -78,6 +81,7 @@ omit_header_text: true
 | **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
 | **Vater**     | [Camaro von der Bleichstrasse](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse) |
 | **ZB-Nr.**    | ADRK 140389                                                                                                  |
+| **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)         |
 
 
 &nbsp;
