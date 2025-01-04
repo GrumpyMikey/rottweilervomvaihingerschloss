@@ -16,20 +16,20 @@ omit_header_text: true
 
 
 # B-Wurf vom 16.03.2024 {#anker-b-wurf}
-# *(Alle Welpen sind schon vergeben)*
+*(Alle Welpen sind schon vergeben)*
 
 ## 2024-04-16 (Tag 31)
 
-{{< figure src="../../images/wuerfe/b-wurf/01_schwarz_Tag_30_2.jpg" title="Mr Schwarz" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/02_hellrosa_Tag_30.jpg" title="Mrs Hellrosa" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/03_rosa_Tag_30.jpg" title="Mrs Rosa" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/04_blau_Tag_30.jpg" title="Mr Blau" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/05_gruen_Tag_30.jpg" title="Mr Grün" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/06_rot_Tag_30.jpg" title="Mrs Rot" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/07_lila_Tag_30.jpg" title="Mrs Lila" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/08_orange_Tag_30_2.jpg" title="Mrs Orange" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_30.jpg" title="Mr Grau" >}}  
-{{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_30.jpg" title="Mrs Weiß/Gelb" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/01_schwarz_Tag_30_2.jpg" title="Mr Schwarz - Baldur" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/02_hellrosa_Tag_30.jpg" title="Mrs Hellrosa - Blue Ivy (Baghira)" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/03_rosa_Tag_30.jpg" title="Mrs Rosa - Merle (Blossom)" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/04_blau_Tag_30.jpg" title="Mr Blau - Junior (Balu)" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/05_gruen_Tag_30.jpg" title="Mr Grün - Balin" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/06_rot_Tag_30.jpg" title="Mrs Rot - Bina" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/07_lila_Tag_30.jpg" title="Mrs Lila - Bo" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/08_orange_Tag_30_2.jpg" title="Mrs Orange - Buffy" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/09_grau_Tag_30.jpg" title="Mr Grau - Buddy - 💔 RIP" >}}  
+{{< figure src="../../images/wuerfe/b-wurf/10_weiss_Tag_30.jpg" title="Mrs Weiß/Gelb - Bente" >}}  
 
 Hier nochmal alle zusammen:
 {{< figure src="../../images/wuerfe/b-wurf/b-team_20240416.jpg" title="" >}}  
@@ -53,7 +53,7 @@ Vorstellungsrunde:
 
 
 # A-Wurf vom 25.09.2022 {#anker-a-wurf}
-# *(Alle Welpen sind schon vergeben)*
+*(Alle Welpen sind schon vergeben)*
 
 
 |   |   |
