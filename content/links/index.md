@@ -46,7 +46,7 @@ Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 
 ### Hundeschule gesucht? {#ankerpunkt-hundeschule}
 
-Hier meine Herzensempfehlung ❤️ 
+Hier meine Herzensempfehlung ❤️  
 Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich.  
 Weitere Infos findet ihr auf Ihrer Homepage.
 
