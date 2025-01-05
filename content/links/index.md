@@ -47,15 +47,14 @@ Dann kontaktiert doch gerne mal den lieben Nicki van der Vliet.
 ### Hundeschule gesucht? {#ankerpunkt-hundeschule}
 
 Hier meine Herzensempfehlung ❤️  
-Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich.  
-Weitere Infos findet ihr auf Ihrer Homepage.
+Ich kann jedem zu 100% die liebe Alex empfehlen. Kontaktiert sie gerne direkt oder über mich. Weitere Infos findet ihr auf Ihrer Homepage.
 
 {{< figure src="../images/hundeschule/Hundeschule_Einzelstück_Logo.png" title="" alt="alt" link="https://hundeschule-einzelstueck.de/" target="_blank">}}
 
 |           |                                                                                                  |
 |-----------|--------------------------------------------------------------------------------------------------|
 | Homepage  | [ https://hundeschule-einzelstueck.de/ ]( https://hundeschule-einzelstueck.de/ )                 |
-| Instagram | [ hundeschule_einzelstueck.de ]( https://www.instagram.com/hundeschule_einzelstueck.de/ )        |
+| Instagram | [ hundeschule_einzelstueck ]( https://www.instagram.com/hundeschule_einzelstueck/ )        |
 | facebook  | [ Hundeschule Einzelstück ]( https://www.facebook.com/profile.php?id=100011541300604 )           |
 | eMail     | hundeschule-einzelstueck@mail.de                                                                 |
 | Telefon   | [ +49162-2429770 ]( tel:+491622429770 )                                                          |
