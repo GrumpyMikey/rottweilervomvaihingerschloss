@@ -81,6 +81,9 @@ omit_header_text: true
 | **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
 | **Vater**     | [Camaro von der Bleichstrasse](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse) |
 | **ZB-Nr.**    | ADRK 140389                                                                                                  |
+| **HD**        | -                                                                                                              |
+| **ED**        | -                                                                                                              |
+| **JLPP**      | N/N                                                                                                            |
 | **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)     |
 
 
