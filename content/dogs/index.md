@@ -33,9 +33,9 @@ omit_header_text: true
 | **Vater**     | [Irk vom Findberg](https://de.working-dog.com/dogs-details/2598356/Irk-vom-Findberg)                       |
 | **ZB-Nr.**    | ADRK 131098                                                                                                |
 | **HD**        | +/-                                                                                                        |
-| **ED**        | -                                                                                                          |
+| **ED**        | frei                                                                                                          |
 | **JLPP**      | N/N                                                                                                        |
-| **Prüfungen** | BH/VT, ZTP                                                                                                 |
+| **Prüfungen** | BH/VT (17.11.2019), ZTP (21.11.2021)                                                                       |
 | **Link**      | [Winnie auf working-dog.com](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
 
 |   |   |
@@ -61,10 +61,10 @@ omit_header_text: true
 | **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse)   |
 | **Vater**     | [Kurt von den Ellwanger Bergen](https://de.working-dog.com/dogs-details/6743917/Kurt-von-den-Ellwanger-Bergen) |
 | **ZB-Nr.**    | ADRK 138468                                                                                                    |
-| **HD**        | -                                                                                                              |
-| **ED**        | -                                                                                                              |
+| **HD**        | frei                                                                                                              |
+| **ED**        | frei                                                                                                              |
 | **JLPP**      | N/N                                                                                                            |
-| **Prüfungen** | BH/VT                                                                                                          |
+| **Prüfungen** | BH/VT  (01.12.2024)                                                                                            |
 | **Link**      | [Ares auf working-dog.com](https://de.working-dog.com/dogs-details/7737779/Ares-vom-Vaihinger-Schloss)         |
 
 |   |   |
@@ -75,18 +75,19 @@ omit_header_text: true
 ### Buffy vom Vaihinger Schloss {#ankerpunkt-buffy}
 {{< figure src="../images/Buffy_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
-{{< figure src="../images/Buffy_2.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+{{< figure src="../images/Buffy_3.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
-|               |                                                                                                              |
-|---------------|--------------------------------------------------------------------------------------------------------------|
-| **Wurftag**   | 16.03.2024                                                                                                   |
-| **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse) |
-| **Vater**     | [Camaro von der Bleichstrasse](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse) |
-| **ZB-Nr.**    | ADRK 140389                                                                                                  |
-| **HD**        | -                                                                                                              |
-| **ED**        | -                                                                                                              |
+|               |                                                                                                                |
+|---------------|----------------------------------------------------------------------------------------------------------------|
+| **Wurftag**   | 16.03.2024                                                                                                     |
+| **Mutter**    | [Winnie von der Bleichstrasse](https://de.working-dog.com/dogs-details/7324943/Winnie-von-der-Bleichstrasse)   |
+| **Vater**     | [Camaro von der Bleichstrasse](https://de.working-dog.com/dogs-details/7478865/Camaro-von-der-Bleichstrasse)   |
+| **ZB-Nr.**    | ADRK 140389                                                                                                    |
+| **HD**        | frei                                                                                                              |
+| **ED**        | frei                                                                                                              |
 | **JLPP**      | N/N                                                                                                            |
-| **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)     |
+| **Prüfungen** | BH/VT (21.09.2025)                                                                                             |
+| **Link**      | [Buffy auf working-dog.com](https://de.working-dog.com/dogs-details/7907504/Buffy-vom-Vaihinger-Schloss)       |
 
 
 &nbsp;
