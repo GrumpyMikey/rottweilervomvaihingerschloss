@@ -75,7 +75,7 @@ omit_header_text: true
 ### Buffy vom Vaihinger Schloss {#ankerpunkt-buffy}
 {{< figure src="../images/Buffy_1.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
-{{< figure src="../images/Buffy_3.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
+{{< figure src="../images/Buffy_2.jpg" title="" link="https://www.instagram.com/die.rotti.gang/"  caption=""  target="_blank" >}}
 
 |               |                                                                                                                |
 |---------------|----------------------------------------------------------------------------------------------------------------|
