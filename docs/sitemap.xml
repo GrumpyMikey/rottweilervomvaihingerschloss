@@ -3,16 +3,21 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>https://www.rottweilervomvaihingerschloss.de/</loc>
-    <lastmod>2025-09-21T09:00:00+02:00</lastmod>
+    <lastmod>2025-11-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://www.rottweilervomvaihingerschloss.de/posts/18_buffy_bh/</loc>
-    <lastmod>2025-09-21T09:00:00+02:00</lastmod>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/19_ztp_2025/</loc>
+    <lastmod>2025-11-22T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url><url>
     <loc>https://www.rottweilervomvaihingerschloss.de/posts/</loc>
+    <lastmod>2025-11-22T09:00:00+02:00</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url><url>
+    <loc>https://www.rottweilervomvaihingerschloss.de/posts/18_buffy_bh/</loc>
     <lastmod>2025-09-21T09:00:00+02:00</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
